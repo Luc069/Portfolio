@@ -13,7 +13,7 @@ const Introduction = () => {
           <div className="bg-[#131313] opacity-80 p-2 rounded-md">
             {">"}{" "}
             <span className="ml-1 text-[#99cc99]">
-              // your go-to frontend developer with over 3 years of experience!
+              // your go-to web developer with over 3 years of experience!
             </span>
           </div>
         </div>

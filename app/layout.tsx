@@ -5,8 +5,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Luc | Frontend Developer",
-  description: "I specialize in crafting sleek and modern websites using React, NextJS, Supabase and TailwindCSS. From basic websites to complex web applications, I offer scalable solutions tailored to your needs.",
+  title: "Luc | Web developer",
+  description:
+    " specialize in crafting sleek and modern websites using React, NextJS, Supabase and TailwindCSS. From basic websites to complex web applications, I offer scalable solutions tailored to your needs.",
 }
 
 export default function RootLayout({

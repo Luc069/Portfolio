@@ -33,12 +33,12 @@ const Navbar = () => {
           My work
         </Link>
         <Link
-          to="tech"
+          to="skills"
           smooth={true}
           duration={500}
           className="hidden phone:block cursor-pointer text-[#cccccc] hover:text-[#fff]"
         >
-          Tech
+          Skills
         </Link>
 
         <Link
@@ -147,12 +147,12 @@ const Navbar = () => {
           </Link>
           <br />
           <Link
-            to="tech"
+            to="skills"
             smooth={true}
             duration={500}
             className="cursor-pointer text-[#cccccc] hover:text-[#fff]"
           >
-            Tech
+            Skills
           </Link>
           <br />
           <Link
